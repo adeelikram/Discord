@@ -1,0 +1,244 @@
+{
+  "bozz": [
+    {
+      "user": "",
+      "messagecreated": 0,
+      "bossHours": "0",
+      "bossMinutes": "2",
+      "bossTime": 120000,
+      "bossEmoji": "↘️",
+      "bossLocation": "test",
+      "humanTime": "2 minutes",
+      "isRunning": false
+    }
+  ],
+  "Hazusha": [
+    {
+      "user": "rahil ikram",
+      "messagecreated": 1632328874897,
+      "bossHours": "10",
+      "bossMinutes": "55",
+      "bossTime": 39300000,
+      "bossEmoji": "⛩️",
+      "bossLocation": "Milton",
+      "humanTime": "10 hours, 55 minutes"
+    }
+  ],
+  "Hadinon": [
+    {
+      "user": "rahil ikram",
+      "messagecreated": 1632328108284,
+      "bossHours": "9",
+      "bossMinutes": "55",
+      "bossTime": 35700000,
+      "bossEmoji": "🛣️",
+      "bossLocation": "Milton",
+      "humanTime": "9 hours, 55 minutes"
+    }
+  ],
+  "Zakon": [
+    {
+      "user": "rahil ikram",
+      "messagecreated": 1632328109151,
+      "bossHours": "8",
+      "bossMinutes": "55",
+      "bossTime": 32100000,
+      "bossEmoji": "🗾",
+      "bossLocation": "Milton",
+      "humanTime": "8 hours, 55 minutes"
+    }
+  ],
+  "Olpin": [
+    {
+      "user": "rahil ikram",
+      "messagecreated": 1632328109987,
+      "bossHours": "7",
+      "bossMinutes": "55",
+      "bossTime": 28500000,
+      "bossEmoji": "🎑",
+      "bossLocation": "Milton",
+      "humanTime": "7 hours, 55 minutes",
+      "isRunning": false
+    }
+  ],
+  "Cardishuu": [
+    {
+      "user": "rahil ikram",
+      "messagecreated": 1632328112408,
+      "bossHours": "7",
+      "bossMinutes": "55",
+      "bossTime": 28500000,
+      "bossEmoji": "🌅",
+      "bossLocation": "Milton",
+      "humanTime": "7 hours, 55 minutes"
+    }
+  ],
+  "Banias": [
+    {
+      "user": "rahil ikram",
+      "messagecreated": 1632328113032,
+      "bossHours": "23",
+      "bossMinutes": "55",
+      "bossTime": 86100000,
+      "bossEmoji": "⛰️",
+      "bossLocation": "Milton",
+      "humanTime": "23 hours, 55 minutes"
+    }
+  ],
+  "Germow": [
+    {
+      "user": "rahil ikram",
+      "messagecreated": 1632328115272,
+      "bossHours": "23",
+      "bossMinutes": "55",
+      "bossTime": 86100000,
+      "bossEmoji": "🗻",
+      "bossLocation": "Milton",
+      "humanTime": "23 hours, 55 minutes"
+    }
+  ],
+  "Rootmion": [
+    {
+      "user": "rahil ikram",
+      "messagecreated": 1632328115764,
+      "bossHours": "23",
+      "bossMinutes": "55",
+      "bossTime": 86100000,
+      "bossEmoji": "🎇",
+      "bossLocation": "Milton",
+      "humanTime": "23 hours, 55 minutes"
+    }
+  ],
+  "Kylnir": [
+    {
+      "user": "",
+      "messagecreated": "",
+      "bossHours": "47",
+      "bossMinutes": "55",
+      "bossTime": 172500000,
+      "bossEmoji": "🐔",
+      "bossLocation": "Ob.Ridge",
+      "humanTime": "1 day, 23 hours, 55 minutes"
+    }
+  ],
+  "Morax.N": [
+    {
+      "user": "rahil ikram",
+      "messagecreated": 1632328119412,
+      "bossHours": "11",
+      "bossMinutes": "55",
+      "bossTime": 42900000,
+      "bossEmoji": "🐯",
+      "bossLocation": "Ob.Ridge",
+      "humanTime": "11 hours, 55 minutes"
+    }
+  ],
+  "Morax.S": [
+    {
+      "user": "rahil ikram",
+      "messagecreated": 1632328122747,
+      "bossHours": "11",
+      "bossMinutes": "55",
+      "bossTime": 42900000,
+      "bossEmoji": "🐸",
+      "bossLocation": "Ob.Ridge",
+      "humanTime": "11 hours, 55 minutes"
+    }
+  ],
+  "Valead.L": [
+    {
+      "user": "rahil ikram",
+      "messagecreated": 1632328123528,
+      "bossHours": "11",
+      "bossMinutes": "50",
+      "bossTime": 42600000,
+      "bossEmoji": "🐷",
+      "bossLocation": "Ob.Grasslands",
+      "humanTime": "11 hours, 50 minutes"
+    }
+  ],
+  "Valead.S": [
+    {
+      "user": "rahil ikram",
+      "messagecreated": 1632328125415,
+      "bossHours": "11",
+      "bossMinutes": "50",
+      "bossTime": 42600000,
+      "bossEmoji": "🐮",
+      "bossLocation": "Ob.Grasslands",
+      "humanTime": "11 hours, 50 minutes"
+    }
+  ],
+  "Helas": [
+    {
+      "user": "rahil ikram",
+      "messagecreated": 1632328126175,
+      "bossHours": "10",
+      "bossMinutes": "25",
+      "bossTime": 37500000,
+      "bossEmoji": "🦆",
+      "bossLocation": "Ob.Edge",
+      "humanTime": "10 hours, 25 minutes"
+    }
+  ],
+  "Helas.L": [
+    {
+      "user": "rahil ikram",
+      "messagecreated": 1632328128065,
+      "bossHours": "11",
+      "bossMinutes": "55",
+      "bossTime": 42900000,
+      "bossEmoji": "🐦",
+      "bossLocation": "Ob.Edge",
+      "humanTime": "11 hours, 55 minutes"
+    }
+  ],
+  "Aida": [
+    {
+      "user": "rahil ikram",
+      "messagecreated": 1632328128669,
+      "bossHours": "47",
+      "bossMinutes": "45",
+      "bossTime": 171900000,
+      "bossEmoji": "🦇",
+      "bossLocation": "Ob.Path",
+      "humanTime": "1 day, 23 hours, 45 minutes"
+    }
+  ],
+  "Dina.L": [
+    {
+      "user": "rahil ikram",
+      "messagecreated": 1632328131879,
+      "bossHours": "11",
+      "bossMinutes": "20",
+      "bossTime": 40800000,
+      "bossEmoji": "🦉",
+      "bossLocation": "Ob.Path",
+      "humanTime": "11 hours, 20 minutes"
+    }
+  ],
+  "Dina.R": [
+    {
+      "user": "rahil ikram",
+      "messagecreated": 1632328132682,
+      "bossHours": "11",
+      "bossMinutes": "50",
+      "bossTime": 42600000,
+      "bossEmoji": "🐍",
+      "bossLocation": "Ob.Path",
+      "humanTime": "11 hours, 50 minutes"
+    }
+  ],
+  "Laum.N": [
+    {
+      "user": "rahil ikram",
+      "messagecreated": 1632328136064,
+      "bossHours": "11",
+      "bossMinutes": "55",
+      "bossTime": 42900000,
+      "bossEmoji": "🦐",
+      "bossLocation": "Ob.Hills",
+      "humanTime": "11 hours, 55 minutes"
+    }
+  ]
+}

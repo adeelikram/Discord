@@ -1,0 +1,45 @@
+Hey ohohsn!
+
+Thank you for ordering one of my services. I will help you through all the steps to get this bot up and running. First of all, make sure that you have selected
+the folder inside the unzipped folder (they have the same name). This is because when unzipping a folder, the program makes a copy of that folder. Make sure
+to select that folder with the same name inside the unzipped folder. 
+
+To run this bot, you will need a few things. First of all, i recommend you to install visual studio code to run the bot (if you don't want that, no issue. CMD will do the job)
+Now easily install node.js v16.6.2: https://nodejs.org/en/blog/release/v16.6.2/ (install the one according to your os type)
+
+After that, make sure to type "npm install" in your terminal (when having the folder selected)
+Then easily go to config.json. In there, change your token: "TOKEN": "changeyourtokenhere",
+example:  "TOKEN": "askfajg299259209skkf";
+
+then go to line 277:
+let role1 = message.guild.roles.cache.find(r => r.name === "yourexactrolenamehere");
+and put your EXACT role name there!
+
+if your role has emojis in the name, change the whole line to:
+let role1 = message.guild.roles.cache.find(r => r.id === "yourroleidhere");
+
+Now easily start the bot by typing: node . in the terminal.
+
+If you want to change the embed titles and images, do this:
+
+- go to index.js
+find all the:
+let helpembxd = new Discord.MessageEmbed()
+		.setThumbnail("https://cdn.vox-cdn.com/thumbor/pc1QHXz430GLrg9v2X7eGR1KQ44=/0x0:1280x670/1200x800/filters:focal(538x233:742x437)/cdn.vox-cdn.com/uploads/chorus_image/image/69026146/my_hero_academia_season_5_izuku_midoriya_deku_anime_1258627_1280x0.0.jpeg")
+		.setColor("RANDOM")
+		.setTitle("Eren Jaeger")
+		.setFooter("React with 🥪 to start the timer")
+etc etc and change the setTitle and the setThumbnail:
+
+let helpembxd = new Discord.MessageEmbed()
+		.setThumbnail("newimagelinkhere")
+                .setColor("RANDOM")
+		.setTitle("newnamehere")
+		.setFooter("React with 🥪 to start the timer")
+
+do that for all the other embeds and save the file and restart the bot again!
+
+If you ever have any questions or need any help, I am available 24/7 on fiverr! Take care!
+
+
+

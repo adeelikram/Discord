@@ -1,0 +1,262 @@
+{
+  "Valead": [
+    {
+      "messagecreated": 1632131962238,
+      "user": "Aven",
+      "bossHours": "12",
+      "bossMinutes": "0",
+      "bossTime": 43200000,
+      "bossEmoji": "↔️",
+      "bossLocation": "Ob.Grasslands",
+      "humanTime": "12 hours",
+      "isRunning": true
+    }
+  ],
+  "Raudi": [
+    {
+      "messagecreated": 1632131869657,
+      "user": "rahil ikram",
+      "bossHours": "10",
+      "bossMinutes": "0",
+      "bossTime": 36000000,
+      "bossEmoji": "🔃",
+      "bossLocation": "Calamitous",
+      "humanTime": "10 hours",
+      "isRunning": true
+    }
+  ],
+  "Tanpana": [
+    {
+      "messagecreated": 1632131960036,
+      "user": "Aven",
+      "bossHours": "10",
+      "bossMinutes": "0",
+      "bossTime": 36000000,
+      "bossEmoji": "0️⃣",
+      "bossLocation": "Calamitous",
+      "humanTime": "10 hours",
+      "isRunning": true
+    }
+  ],
+  "Zakon": [
+    {
+      "messagecreated": 1632131870554,
+      "user": "rahil ikram",
+      "bossHours": "9",
+      "bossMinutes": "0",
+      "bossTime": 32400000,
+      "bossEmoji": "1️⃣",
+      "bossLocation": "Milton",
+      "humanTime": "9 hours",
+      "isRunning": true
+    }
+  ],
+  "Olpin": [
+    {
+      "messagecreated": 1632131873373,
+      "user": "rahil ikram",
+      "bossHours": "7",
+      "bossMinutes": "33",
+      "bossTime": 27180000,
+      "bossEmoji": "2️⃣",
+      "bossLocation": "Milton",
+      "humanTime": "7 hours, 33 minutes",
+      "isRunning": true
+    }
+  ],
+  "Dina": [
+    {
+      "messagecreated": 1632131874072,
+      "user": "rahil ikram",
+      "bossHours": "12",
+      "bossMinutes": "0",
+      "bossTime": 43200000,
+      "bossEmoji": "3️⃣",
+      "bossLocation": "Ob.Path",
+      "humanTime": "12 hours",
+      "isRunning": true
+    }
+  ],
+  "Hadinon": [
+    {
+      "messagecreated": 1632133081031,
+      "user": "Aven",
+      "bossHours": "9",
+      "bossMinutes": "50",
+      "bossTime": 35400000,
+      "bossEmoji": "4️⃣",
+      "bossLocation": "Milton",
+      "humanTime": "9 hours, 50 minutes",
+      "isRunning": true
+    }
+  ],
+  "Hazusha": [
+    {
+      "messagecreated": 1632131877477,
+      "user": "rahil ikram",
+      "bossHours": "10",
+      "bossMinutes": "55",
+      "bossTime": 39300000,
+      "bossEmoji": "5️⃣",
+      "bossLocation": "Milton",
+      "humanTime": "10 hours, 55 minutes",
+      "isRunning": true
+    }
+  ],
+  "Akina": [
+    {
+      "messagecreated": 1632131875627,
+      "user": "rahil ikram",
+      "bossHours": "10",
+      "bossMinutes": "0",
+      "bossTime": 36000000,
+      "bossEmoji": "🇦",
+      "bossLocation": "Milton",
+      "humanTime": "10 hours",
+      "isRunning": true
+    }
+  ],
+  "Cardishuu": [
+    {
+      "messagecreated": 1632133075053,
+      "user": "Aven",
+      "bossHours": "7",
+      "bossMinutes": "35",
+      "bossTime": 27300000,
+      "bossEmoji": "🇭",
+      "bossLocation": "Milton",
+      "humanTime": "7 hours, 35 minutes",
+      "isRunning": true
+    }
+  ],
+  "Laum.N": [
+    {
+      "messagecreated": 1632130881967,
+      "user": "",
+      "bossHours": "12",
+      "bossMinutes": "0",
+      "bossTime": 43200000,
+      "bossEmoji": "ℹ️",
+      "bossLocation": "Mt.Oblivion",
+      "humanTime": "12 hours",
+      "isRunning": true
+    }
+  ],
+  "Bonadin": [
+    {
+      "messagecreated": 1632131881128,
+      "user": "rahil ikram",
+      "bossHours": "23",
+      "bossMinutes": "20",
+      "bossTime": 84000000,
+      "bossEmoji": "☠️",
+      "bossLocation": "Milton",
+      "humanTime": "23 hours, 20 minutes",
+      "isRunning": true
+    }
+  ],
+  "Devarik": [
+    {
+      "messagecreated": 1632131879529,
+      "user": "rahil ikram",
+      "bossHours": "23",
+      "bossMinutes": "20",
+      "bossTime": 84000000,
+      "bossEmoji": "💀",
+      "bossLocation": "Milton",
+      "humanTime": "23 hours, 20 minutes",
+      "isRunning": true
+    }
+  ],
+  "Germow": [
+    {
+      "messagecreated": 1632131068607,
+      "user": "",
+      "bossHours": "23",
+      "bossMinutes": "20",
+      "bossTime": 84000000,
+      "bossEmoji": "⚛️",
+      "bossLocation": "Milton",
+      "humanTime": "23 hours, 20 minutes",
+      "isRunning": true
+    }
+  ],
+  "Banias": [
+    {
+      "messagecreated": 1632133116105,
+      "user": "Aven",
+      "bossHours": "23",
+      "bossMinutes": "50",
+      "bossTime": 85800000,
+      "bossEmoji": "😈",
+      "bossLocation": "Milton",
+      "humanTime": "23 hours, 50 minutes",
+      "isRunning": true
+    }
+  ],
+  "Rootimon": [
+    {
+      "messagecreated": 1632133118703,
+      "user": "Aven",
+      "bossHours": "23",
+      "bossMinutes": "20",
+      "bossTime": 84000000,
+      "bossEmoji": "*️⃣",
+      "bossLocation": "Milton",
+      "humanTime": "23 hours, 20 minutes",
+      "isRunning": true
+    }
+  ],
+  "Dina.R": [
+    {
+      "messagecreated": 1632133120665,
+      "user": "Aven",
+      "bossHours": "12",
+      "bossMinutes": "0",
+      "bossTime": 43200000,
+      "bossEmoji": "♉",
+      "bossLocation": "Ob.Path",
+      "humanTime": "12 hours",
+      "isRunning": true
+    }
+  ],
+  "Raudi.R": [
+    {
+      "messagecreated": 1632133122628,
+      "user": "Aven",
+      "bossHours": "10",
+      "bossMinutes": "0",
+      "bossTime": 36000000,
+      "bossEmoji": "➡️",
+      "bossLocation": "Calamitous",
+      "humanTime": "10 hours",
+      "isRunning": true
+    }
+  ],
+  "Idun": [
+    {
+      "messagecreated": 1632133124882,
+      "user": "Aven",
+      "bossHours": "23",
+      "bossMinutes": "50",
+      "bossTime": 85800000,
+      "bossEmoji": "🟣",
+      "bossLocation": "Calamitous",
+      "humanTime": "23 hours, 50 minutes",
+      "isRunning": true
+    }
+  ],
+  "bosstest": [
+    {
+      "user": "",
+      "messagecreated": 0,
+      "bossHours": "0",
+      "bossMinutes": "11",
+      "bossTime": 660000,
+      "bossEmoji": "☎️",
+      "bossLocation": "testingloc",
+      "humanTime": "11 minutes",
+      "isRunning": false
+    }
+  ]
+}
